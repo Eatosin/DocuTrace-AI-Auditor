@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+pypdf
+python-dotenv
+pandas
+git+https://github.com/google/langextract.git
