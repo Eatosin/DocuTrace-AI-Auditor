@@ -1,4 +1,10 @@
 <div align="center">
+<!-- HERO HERO (Clickable) -->
+<a 
+  <img src="assets/DocuTrace_hero.jpg" width="100%" alt="DocuTrace header hero" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0,0,0,0.3); border: 1px solid #30363d;">
+</a>
+
+<br/><br/>
 
 # DocuTrace: Verifiable AI Auditor
 ### *Precision Data Extraction with Pixel-Perfect Source Grounding*
